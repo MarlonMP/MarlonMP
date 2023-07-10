@@ -9,18 +9,18 @@ I'm a backend developer, I'm very found of computer sience, I like to learn new 
 
 ## My golams, and what I'm doing for achieve them
 
-- I want to improve as a developer:
+- **I want to improve as a developer:**
   - I'm learning more about computer sience
   - I'm designing project ideas for develop them later
 
-- I want to improve my english
+- **I want to improve my english:**
   - I'm watching series, movies, videos in english
   - I'm learning vebrs, phrashal verbs, and their times
 
-- I want to start my software company
+- **I want to start my software company:**
   - I'm improving as a developer
 
-- I would like to learn Rustlang.
+- **I would like to learn Rustlang:**
   - I singed up in a Rustlang bootcamp
 
 ## My social networks
