@@ -18,9 +18,3 @@ I'm a backend developer, I'm very found of computer sience, I like to learn new 
 
 - NextJs
 - Rust
-
-## Links
-
-<a href="https://www.linkedin.com/in/marlon-mosquerap/">
-  <img src="linkedin.ico" width="20px" alt="Marlon Mosquera Linkedin"/>
-</a>
